@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./docs/banner.jpg" width="100%" alt="Banner do projeto Cálculo de Notas">
+</div>
+
+<div align="center">
 
 # C Á L C U L O　D E　N O T A S　//　J A V A
 
